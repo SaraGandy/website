@@ -70,6 +70,7 @@ email: 'sara.gandy@ukhsa.gov.uk'
 highlight_name: true
 ---
 
-My research primarily focuses on understanding the ecological drivers of tick-borne diseases to provide insights on the mechanisms involved in transmission cycles, especially on the interactions between ticks, hosts and pathogens. My research includes investigating the impacts of environmental changes (woodland restoration, rewilding) and host community composition (deer, rodent and birds) on tick-borne diseases risks in the UK. 
+My research primarily focuses on understanding the ecological drivers of tick-borne diseases to provide insights on the mechanisms involved in transmission cycles, especially on the interactions between ticks, hosts and pathogens. My research includes investigating the impacts of environmental changes (woodland restoration, rewilding) and host community composition (deer, rodent and birds) on tick-borne diseases risks in the UK.
+
 
 {style="text-align: justify;"}
