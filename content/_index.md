@@ -30,14 +30,13 @@ sections:
           location: Porton Down, UK
           date_start: '2023-03-04'
           date_end: ''
-          description:|2-
-              My responsibilities include:
+          description: My responsibilities include:
               
-              * Managing ecological research projects
-              * Coordinating with Stakeholders
-              * Management of data entry
-              * Data analysis (data visualisation, statistical modeling, spatial modeling)
-              * Writing peer-reviewed articles
+              - Managing ecological research projects
+              - Coordinating with Stakeholders
+              - Management of data entry
+              - Data analysis (data visualisation, statistical modeling, spatial modeling)
+              - Writing peer-reviewed articles
 
   - block: accomplishments
     content:
