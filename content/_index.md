@@ -23,19 +23,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Senior Medical Entomologist
+          company: UK Health Security Agency
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: 
+          location: Porton Down, UK
+          date_start: '2023-03-03'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              *  Managing ecological research projects
+              * Coordinating with Stakeholders
+              * Management of data entry
+              * Data analysis (data visualisation, statistical modeling, spatial modeling)
+              * Writing peer-reviewed articles
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
