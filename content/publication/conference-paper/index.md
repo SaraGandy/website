@@ -29,8 +29,6 @@ publication: In Ecology and Evolution
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -42,14 +40,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9253'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
