@@ -26,9 +26,9 @@ sections:
         - title: Senior Medical Entomologist
           company: UK Health Security Agency
           company_url: ''
-          company_logo: UKHSA
-          location: Porton Down, UK
-          date_start: '2023-03-01'
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
