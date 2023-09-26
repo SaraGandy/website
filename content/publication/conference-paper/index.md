@@ -6,33 +6,29 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Elizabeth Kilbride
+  - Roman Biek
+  - Caroline Millins
+  - Lucy Gilbert
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2022-06-08T00:00:00Z'
+doi: '10.1002/ece3.9253'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-06-08T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In Ecology and Evolution
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: To better understand vector-borne disease dynamics, knowledge of the ecological interactions between animal hosts, vectors, and pathogens is needed. The effects of hosts on disease hazard depends on their role in driving vector abundance and their ability to transmit pathogens. Theoretically, a host that cannot transmit a pathogen could dilute pathogen prevalence but increase disease hazard if it increases vector population size. In the case of Lyme disease, caused by Borrelia burgdorferi s.l. and vectored by Ixodid ticks, deer may have dual opposing effects on vectors and pathogen: deer drive tick population densities but do not transmit B. burgdorferi s.l. and could thus decrease or increase disease hazard. We aimed to test for the role of deer in shaping Lyme disease hazard by using a wide range of deer densities while taking transmission host abundance into account. We predicted that deer increase nymphal tick abundance while reducing pathogen prevalence. The resulting impact of deer on disease hazard will depend on the relative strengths of these opposing effects. We conducted a cross-sectional survey across 24 woodlands in Scotland between 2017 and 2019, estimating host (deer, rodents) abundance, questing Ixodes ricinus nymph density, and B. burgdorferi s.l. prevalence at each site. As predicted, deer density was positively associated with nymph density and negatively with nymphal infection prevalence. Overall, these two opposite effects canceled each other out: Lyme disease hazard did not vary with increasing deer density. This demonstrates that, across a wide range of deer and rodent densities, the role of deer in amplifying tick densities cancels their effect of reducing pathogen prevalence. We demonstrate how noncom-petent host density has little effect on disease hazard even though they reduce pathogen prevalence, because of their role in increasing vector populations. These results have implications for informing disease mitigation strategies, especially through host management. 
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -42,21 +38,13 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9253
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.9253'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
@@ -65,23 +53,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
