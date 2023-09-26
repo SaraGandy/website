@@ -75,7 +75,7 @@ sections:
           description:
           icon: chart-line
           icon_pack: fas
-   - block: collection
+  - block: collection
     id: featured
     content:
       title: Featured Publications
