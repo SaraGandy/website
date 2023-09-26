@@ -31,21 +31,36 @@ sections:
           date_start: '2023-03-03'
           date_end: ''
           description: |2-
-              As a Senior Medical Entomologist, I lead a range of ecological research projects, including the National Tick Survey and various projects investigating the impacts of land management and host presence on tick-borne disease hazard. Responsibilities include:
+              As a Senior Medical Entomologist, I lead a range of ecological research projects, including the National Tick Survey and various projects investigating the impacts of land management and host presence on tick-borne disease hazard. My responsibilities include:
 
               *  Managing ecological research projects
               * Coordinating with Stakeholders
               * Management of data entry
               * Data analysis (data visualisation, statistical modeling, spatial modeling)
               * Writing peer-reviewed articles
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Medical Entomologist
+          company: UK Health Security Agency
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: 
+          location: Porton Down, UK
+          date_start: '2020-03-08'
+          date_end: '2023-03-01'
+          description: |2-
+              As a Medical Entomologist, I am involved in  a range of ecological research projects focusing on tick-borne diseases in the UK. My responsibilities include:
+
+              *  Coordinating field work logistics
+              * Coordinating with Stakeholders
+              * Data entry
+              * Data analysis (data visualisation, statistical modeling, spatial modeling)
+              * Writing peer-reviewed articles
+          - title: PhD Candidate
+          company: University of Glasgow
+          company_url: ''
+          company_logo: 
+          location: Glasgow, UK
+          date_start: '2016-10-03'
+          date_end: '2020-09-10'
+          description: My PhD focusses on the impacts of host community composition on Lyme disease hazard in Scottish woodlands.
     design:
       columns: '2'
   - block: features
