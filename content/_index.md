@@ -53,15 +53,14 @@ sections:
               * Data entry
               * Data analysis (data visualisation, statistical modeling, spatial modeling)
               * Writing peer-reviewed articles
-          - title: PhD Candidate
+        - title: PhD Candidate
           company: University of Glasgow
           company_url: ''
           company_logo: 
           location: Glasgow, UK
           date_start: '2016-10-03'
           date_end: '2020-09-10'
-          description: |2-
-              My PhD focusses on the impacts of host community composition on Lyme disease hazard in Scottish woodlands.
+          description: My PhD focusses on the impacts of host community composition on Lyme disease hazard in Scottish woodlands.
     design:
       columns: '2'
   - block: features
