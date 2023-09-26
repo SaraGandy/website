@@ -31,7 +31,7 @@ sections:
           date_start: '2023-03-03'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              As a Senior Medical Entomologist, I lead a range of ecological research projects, including the National Tick Survey and various projects investigating the impacts of land management and host presence on tick-borne disease hazard. Responsibilities include:
 
               *  Managing ecological research projects
               * Coordinating with Stakeholders
