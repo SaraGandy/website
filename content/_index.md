@@ -62,8 +62,8 @@ sections:
           date_end: '2020-09-10'
           description: |2-
           My PhD focusses on the impacts of host community composition on Lyme disease hazard in Scottish woodlands. 
-    #design:
-    #  columns: '2'
+    design:
+      columns: '2'
  # - block: accomplishments
   #  content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
