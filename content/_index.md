@@ -26,8 +26,9 @@ sections:
         - title: Senior Medical Entomologist
           company: UK Health Security Agency
           company_url: ''
+          company_logo:
           location: Porton Down, UK
-          date_start: 'Aug 2020'
+          date_start: '2023-03-04'
           date_end: ''
           description: |2-
               Responsibilities include:
