@@ -1,23 +1,17 @@
 ---
-title: "Ixodes ricinus and Borrelia burgdorferi sensu lato in the Royal Parks of London, UK"
+title: "Experimental evidence for opposing effects of high deer density on tick-borne pathogen prevalence and hazard"
 authors:
-- Kayleigh Hansford
-- Liz McGinley
-- Samantha Wilkinson
-- Emma Gillingham
-- Benjamin Cull
 - admin
-- Dan Carter
-- Alexander Vaux
-- Simon Richards
-- Alister Hayes
-- Jolyon Medlock
+- Elizabeth Kilbride
+- Roman Biek
+- Caroline Millins
+- Lucy Gilbert
 
-date: "2021-07-01T00:00:00Z"
-doi: "10.1007/s10493-021-00633-3"
+date: "2021-09-30T00:00:00Z"
+doi: "10.1186/s13071-021-05000-0"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-07-01T00:00:00Z"
+publishDate: "2021-09-30T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +20,10 @@ publishDate: "2021-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Experimental and Applied Acarology*"
+publication: "*Parasites & Vectors*"
 publication_short: ""
 
-abstract: Assessing the risk of tick-borne disease in areas with high visitor numbers is important from a public health perspective. Evidence suggests that tick presence, density, infection prevalence and the density of infected ticks can vary between habitats within urban green space, suggesting that the risk of Lyme borreliosis transmission can also vary. This study assessed nymph density, *Borrelia* prevalence and the density of infected nymphs across a range of habitat types in nine parks in London which receive millions of visitors each year. *Ixodes* *ricinus* were found in only two of the nine locations sampled, and here they were found in all types of habitat surveyed. Established *I.* *ricinus* populations were identified in the two largest parks, both of which had resident free-roaming deer populations. Highest densities of nymphs  and infected nymphs were associated with woodland and under canopy habitats in Richmond Park, but ticks infected with *Borrelia* were found across all habitat types surveyed. Nymphs infected with Borrelia were only reported from Richmond Park, where *Borrelia* *burgdorferi* sensu stricto and *Borrelia* *afzelii* were identified as the dominant genospecies. Areas with short grass appeared to be less suitable for ticks and maintaining short grass in high footfall areas could be a good strategy for reducing the risk of Lyme borreliosis transmission to humans in such settings. In areas where this would create conflict with existing practices which aim to improve and/or meet historic landscape, biodiversity and public access goals, promoting public health awareness of tick-borne disease risks could also be utilised.
+abstract: Identifying the mechanisms driving disease risk is challenging for multi-host pathogens, such as *Borrelia* *burgdorferi* sensu lato (s.l.), the tick-borne bacteria causing Lyme disease. Deer are tick reproduction hosts but do not transmit *B.* *burgdorferi* s.l., whereas rodents and birds are competent transmission host. Here, we use a long-term deer exclosure experiment to test three mechanisms for how high deer density might shape *B*. *burgdorferi* s.l. prevalence in ticks; increased prevalence due to higher larval tick densities facilitating high transmission on rodents (M1); alternatively, reduced *B*. *burgdorferi* s.l. prevalence because more larval ticks feed on deer rather than transmission-competent rodents (dilution effect) (M2), potentially due to ecological cascades, whereby higher deer grazing pressure shortens vegetation which decreases rodent abundance thus reducing transmission (M3). In a large enclosure where red deer stags were kept at high density, we used an experimental design consisting of eight plots, four of which were fenced to simulate the absence of deer and four that were accessible to deer. In each plot we measured the density of questing nymphs and nymphal infection prevalence in spring, summer and autumn, and quantified vegetation height and density, and small mammal abundance.Prevalence tended to be lower, though not conclusively so, in high deer density plots compared to exclosures, suggesting that the dilution and cascade mechanisms might outweigh the increased opportunities for transmission mechanism. Presence of deer at high density led to shorter vegetation and fewer rodents, consistent with an ecological cascade. However, Lyme disease hazard (density of infected *I.* *ricinus* nymphs) was five times higher in high deer density plots due to tick density being higher. High densities of tick reproduction hosts such as deer can drive up vector-borne disease hazard, despite the potential to simultaneously reduce pathogen prevalence. This has implications for environmental pathogen management and for deer management, although the impact of intermediate deer densities now needs testing.
 
 
 tags:
@@ -39,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/publication/352395220_Ixodes_ricinus_and_Borrelia_burgdorferi_sensu_lato_in_the_Royal_Parks_of_London_UK
+url_pdf: 'https://link.springer.com/article/10.1186/s13071-021-05000-0'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -39,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/publication/352395220_Ixodes_ricinus_and_Borrelia_burgdorferi_sensu_lato_in_the_Royal_Parks_of_London_UK
+url_pdf: 'https://www.researchgate.net/publication/352395220_Ixodes_ricinus_and_Borrelia_burgdorferi_sensu_lato_in_the_Royal_Parks_of_London_UK'
 url_code: ''
 url_dataset: ''
 url_poster: ''
