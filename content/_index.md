@@ -11,18 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description:
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description:
-          icon: chart-line
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -58,6 +46,18 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: R
+          description:
+          icon: r-project
+          icon_pack: fab
+        - name: Statistics
+          description:
+          icon: chart-line
+          icon_pack: fas
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
