@@ -30,8 +30,8 @@ sections:
           location: Porton Down, UK
           date_start: '2023-03-04'
           date_end: ''
-          description:
-              As a Senior Medical Entomologist, I lead a range of ecological research projects, including the National Tick Survey and a research project investigating the impacts of rewilding on tick-borne disease hazard. My responsibilities include:
+          description:|2-
+              My responsibilities include:
               
               * Managing ecological research projects
               * Coordinating with Stakeholders
