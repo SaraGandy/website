@@ -11,7 +11,19 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-   - block: experience
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: R
+          description:
+          icon: r-project
+          icon_pack: fab
+        - name: Statistics
+          description:
+          icon: chart-line
+          icon_pack: fas
+  - block: experience
     content:
       title: Experience
       # Date format for experience
