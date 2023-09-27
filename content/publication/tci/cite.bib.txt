@@ -1,0 +1,10 @@
+@article{medlock2022snap,
+  title={Snap-shot assessment of adult mosquito (Diptera: Culicidae) densities on the Turks and Caicos Islands, February 2022},
+  author={Medlock, JM and Gandy, S and Johnston, C and Handfield, Z and Neely, K and Vaux, AGC},
+  journal={Journal of the European Mosquito Control Association},
+  volume={1},
+  number={},
+  pages={1-8},
+  year={2022},
+  publisher={Wageningen Academic}
+}

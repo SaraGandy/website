@@ -1,0 +1,10 @@
+@article{hansford2023mapping,
+  title={Mapping and monitoring tick (Acari, Ixodida) distribution, seasonality, and host associations in the United Kingdom between 2017 and 2020},
+  author={Hansford, Kayleigh M and Gandy, Sara L and Gillingham, Emma L and McGinley, Liz and Cull, Benjamin and Johnston, Colin and Catton, Matthew and Medlock, Jolyon M},
+  journal={Medical and Veterinary Entomology},
+  volume={37},
+  number={1},
+  pages={152-163},
+  year={2023},
+  publisher={Wiley Online Library}
+}

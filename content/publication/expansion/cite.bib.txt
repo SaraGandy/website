@@ -1,0 +1,10 @@
+@article{gandy2023possible,
+  title={Possible expansion of Ixodes ricinus in the United Kingdom identified through the Tick Surveillance Scheme between 2013 and 2020},
+  author={Gandy, Sara L and Hansford, Kayleigh M and Medlock, Jolyon M},
+  journal={Medical and Veterinary Entomology},
+  volume={37},
+  number={1},
+  pages={96--104},
+  year={2023},
+  publisher={Wiley Online Library}
+}
