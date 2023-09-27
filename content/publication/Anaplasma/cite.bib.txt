@@ -1,0 +1,10 @@
+@article{gandy2022prevalence,
+  title={Prevalence of Anaplasma phagocytophilum in questing Ixodes ricinus nymphs across twenty recreational areas in England and Wales},
+  author={Gandy, Sara and Hansford, Kayleigh and McGinley, Liz and Cull, Benjamin and Smith, Rob and Semper, Amanda and Brooks, Tim and Fonville, Manoj and Sprong, Hein and Phipps, Paul and others},
+  journal={Ticks and Tick-borne Diseases},
+  volume={13},
+  number={4},
+  pages={101965},
+  year={2022},
+  publisher={Elsevier}
+}
