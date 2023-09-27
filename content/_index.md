@@ -120,8 +120,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Please fill the form below to contact me.
+      text: 
       # Contact (add or remove contact options as necessary)
       email: sara.gandy@ukhsa.gov.uk
       phone: +44(0) 7929 853811
