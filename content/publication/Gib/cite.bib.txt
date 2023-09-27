@@ -1,0 +1,10 @@
+@article{medlock2022first,
+  title={The first 6 years of surveillance of Aedes albopictus (Diptera: Culicidae) in Gibraltar},
+  author={Medlock, JM and Guillem, R and Johnston, C and Gandy, S and Findlay-Wilson, S and Desoisa, K and Schaffner, F and Vaux, AGC},
+  journal={Journal of the European Mosquito Control Association},
+  volume={40},
+  number={1},
+  pages={23-35},
+  year={2022},
+  publisher={Wageningen Academic Publishers}
+}
