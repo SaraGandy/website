@@ -1,0 +1,9 @@
+@article{gandy2021experimental,
+  title={Experimental evidence for opposing effects of high deer density on tick-borne pathogen prevalence and hazard},
+  author={Gandy, Sara and Kilbride, Elizabeth and Biek, Roman and Millins, Caroline and Gilbert, Lucy},
+  journal={Parasites & Vectors},
+  volume={14},
+  pages={509},
+  year={2021},
+  publisher={Springer}
+}
