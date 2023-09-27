@@ -115,4 +115,38 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: |-
+        Please fill the form below to contact me.
+      # Contact (add or remove contact options as necessary)
+      email: sara.gandy@ukhsa.gov.uk
+      phone: +44(0) 7929 853811
+      address:
+        street: Manor Farm Road, Porton Down
+        city: Salisbury
+        region: Wiltshire
+        postcode: 'SP4 0JG'
+        country: United Kingdom
+        country_code: UK
+      contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: '[https://twitter.com/Twitter](https://twitter.com/SaraGandy38)'
+ # Automatically link email and phone or display as text?
+      autolink: true
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
+    design:
+      columns: '2'
 ---
