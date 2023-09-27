@@ -136,7 +136,7 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: '[https://twitter.com/Twitter](https://twitter.com/SaraGandy38)'
+          link: 'https://twitter.com/SaraGandy38'
  # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
