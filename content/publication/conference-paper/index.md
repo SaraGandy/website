@@ -1,5 +1,5 @@
 ---
-title: 'Featured research paper'
+title: 'No net effect of host density on tick-borne disease hazard due to opposing roles of vector amplification and pathogen dilution'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

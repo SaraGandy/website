@@ -35,7 +35,7 @@ abstract: Following the expansion of the invasive mosquito *Aedes* *albopictus* 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

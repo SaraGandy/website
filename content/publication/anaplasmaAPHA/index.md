@@ -33,7 +33,7 @@ abstract: The pathogen *Anaplasma* *phagocytophilum* is the aetiological agent o
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

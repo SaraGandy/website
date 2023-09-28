@@ -81,8 +81,8 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication_featured
-        featured_only: false
+          - publication
+        featured_only: true
     design:
       columns: '2'
       view: card

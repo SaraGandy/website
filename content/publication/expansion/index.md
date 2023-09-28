@@ -30,7 +30,7 @@ abstract: The tick *Ixodes* *ricinus* is the main vector of several pathogens in
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
