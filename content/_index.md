@@ -15,18 +15,19 @@ sections:
     content:
       title: Skills
       items:
-        - name: R 
+        - name: R
           description:
           icon: r-project
-          icon_pack: fat
-        - name: vector-
+          icon_pack: fab
+        - name: Statistics
           description:
-          icon: spider
-          icon_pack: fat
-        - name: ecological
+          icon: chart-line
+          icon_pack: fas
+        - name: vector-borne diseases
           description:
-          icon: tree
-          icon_pack: fat
+          icon: bug
+          icon_pack: fas
+
 
   - block: experience
     content:
