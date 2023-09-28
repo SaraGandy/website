@@ -63,18 +63,6 @@ sections:
           description: My PhD focusses on the impacts of host community composition on Lyme disease hazard in Scottish woodlands.
     design:
       columns: '2'
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description:
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description:
-          icon: chart-line
-          icon_pack: fas
   - block: collection
     id: featured
     content:
