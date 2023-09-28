@@ -15,15 +15,15 @@ sections:
     content:
       title: Skills
       items:
-        - name: R & statistics
+        - name: R 
           description:
           icon: r-project
           icon_pack: fat
-        - name: vector-borne diseases
+        - name: vector-
           description:
           icon: spider
           icon_pack: fat
-        - name: ecological research
+        - name: ecological
           description:
           icon: tree
           icon_pack: fat
