@@ -1,5 +1,5 @@
 ---
-title: Talk at the British Ecological Society conference in December 2022 
+title: Talk at the BES conference in December 2022 
 
 event: British Ecological Society
 event_url: https://www.britishecologicalsociety.org/events/bes-annual-meeting-2022/
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: United Kingdom
 
-summary: Talk on the possible expansion of *Ixodes ricinus* ticks in the UK at the BES conference in December 2022
+summary: Talk on the possible expansion of *Ixodes ricinus* ticks in the UK at the British Ecological Society conference in December 2022
 abstract: 'The tick *Ixodes ricinus* is the main vector of several pathogens including *Borrelia burgdorferi* s.l. and tick-borne encephalitis virus. Its distribution depends on many factors including suitable habitat, climate and presence of hosts. In this study, we present records of *I. ricinus* bites on humans, dogs and cats in the United Kingdom (UK) obtained through the Tick Surveillance Scheme between 2013 and 2020. We divided the UK into 20 km x 20 km grids and 9.2% (range 1.2%–30%) of grids had at least one record every year since 2013. Most regions reported a yearly increase in the percentage of grids reporting *I. ricinus* since 2013 and the highest changes occurred in the South and East England with 5%–6.7% of new grids reporting *I. ricinus* bites each year in areas that never reported ticks before. Spatiotemporal analyses suggested that, while all regions recorded *I. ricinus* in new areas every year, there was a yearly decline in the percentage of new areas covered, except for Scotland. We discuss potential drivers of tick expansion, including reforestation and increase in deer populations'
 
 # Talk start and end times.

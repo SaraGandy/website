@@ -1,5 +1,5 @@
 ---
-title: Talk at the British Ecological Society conference in December 2018 
+title: Talk at the BES conference in December 2018 
 
 event: British Ecological Society conference
 event_url: https://www.britishecologicalsociety.org/bes2018-deadlines/
@@ -12,7 +12,7 @@ address:
   postcode: 
   country: United Kingdom
 
-summary: I presented some of my PhD work on the impacts of host community composition on Lyme disease hazard in Scotland at the BES conference in December 2018
+summary: I presented some of my PhD work on the impacts of host community composition on Lyme disease hazard in Scotland at the British Ecological Society conference in December 2018
 abstract: 
 
 # Talk start and end times.

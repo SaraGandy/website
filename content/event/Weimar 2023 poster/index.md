@@ -1,5 +1,5 @@
 ---
-title: Poster presentation at the 15th International Symposium on Ticks and Tick-birne Diseases in March 2023 
+title: Poster presentation at the 15th International Symposium on Ticks and Tick-borne Diseases in March 2023 
 
 event: 15th International Symposium on Ticks and Tick-borne Diseases
 event_url: https://www.ittbd-symposium.com/
