@@ -15,13 +15,9 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: R & statistics
           description:
           icon: r-project
-          icon_pack: fat
-        - name: Statistics
-          description:
-          icon: chart-line
           icon_pack: fat
         - name: vector-borne diseases
           description:
