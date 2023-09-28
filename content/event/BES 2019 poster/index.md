@@ -12,7 +12,7 @@ address:
   postcode: 
   country: United Kingdom
 
-summary: Poster presentation on the Experimental evidence for a contrasting effect of deer on ticks and tick-borne disease risk at the British Ecological Society conference in December 2019
+summary: I presented a poster on the Experimental evidence for a contrasting effect of deer on ticks and tick-borne disease risk at the British Ecological Society conference in December 2019
 abstract: 'Transmission cycles of vector borne pathogens rely on multiple hosts; competent species which maintain the pathogen and reproduction hosts which support vector populations. This is the case for Lyme disease (LD), a disease caused by *Borrelia burgdorferi* s.l and transmitted by ticks. In Scotland, small mammals are competent reservoirs and transmit *Borrelia afzelii* whereas deer are incompetent hosts, but support tick populations. However, the effect of high deer densities on small mammals and prevalence of *B. afzelii* remain unclear. To test this an experimental design was used and data on vegetation structure, tick density and rodent abundance was collected. Consistent with our predictions, high deer density was associated with shorter vegetation, higher tick numbers, fewer rodents and lower prevalence of *B. afzelii*. These preliminary results show how the density of non-competent hosts can modulate the prevalence of a vector-borne pathogen and are consistent with deer acting as dilution hosts. '
 
 # Talk start and end times.

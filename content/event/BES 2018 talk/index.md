@@ -32,8 +32,7 @@ featured: true
 
 image:
   focal_point: Right
-  caption: 'Image credit: [**BES*](https://www.britishecologicalsociety.org/bes2018-deadlines/)'
-  
+
 
 
 # Markdown Slides (optional).
