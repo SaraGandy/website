@@ -22,11 +22,11 @@ sections:
         - name: Ecological research
           description:
           icon: tree
-          icon_pack: fat
+          icon_pack: fas
         - name: vector-borne diseases
           description:
           icon: bug
-          icon_pack: fal
+          icon_pack: fas
 
 
   - block: experience
