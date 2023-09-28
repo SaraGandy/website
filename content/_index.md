@@ -80,7 +80,7 @@ sections:
           description: My PhD focusses on the impacts of host community composition on Lyme disease hazard in Scottish woodlands.
     design:
       columns: '2'
-  - block: experiencessssssss
+  - block: experience
     content:
       title: Experiencesssss
       # Date format for experience
