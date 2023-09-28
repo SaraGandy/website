@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: I was invited by the College of the Atlantic (US) to give a lecture to undergraduate students about the field of medical entomology
-details: 'I was invited by Carrie Graham at the College of the Atlantic (US) to give a lecture to undergraduate students about the field of medical entomology as well as my ecological research on tick-borne diseases'
+abstract: 'I was invited by Carrie Graham at the College of the Atlantic (US) to give a lecture to undergraduate students about the field of medical entomology as well as my ecological research on tick-borne diseases'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
