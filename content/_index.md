@@ -27,10 +27,10 @@ sections:
           description:
           icon: spider
           icon_pack: fat
-       - name: vector-borne diseases
-         description:
-         icon: tree
-         icon_pack: fat
+        - name: ecological research
+          description:
+          icon: tree
+          icon_pack: fat
 
   - block: experience
     content:
