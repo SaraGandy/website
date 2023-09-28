@@ -1,0 +1,9 @@
+@article{medlock2022managing,
+  title={Managing red sheep ticks in Sussex},
+  author={Medlock, Jolyon M and Hansford, Kayleigh M and Gandy, Sara and Vaux, Alexander GC and Keane, Emma and Phipps, Paul and Johnson, Nick},
+  journal={Veterinary Record},
+  volume={190},
+  number={5},
+  pages={202-203},
+  year={2022}
+}

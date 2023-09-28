@@ -1,0 +1,10 @@
+@article{apaa2023anaplasma,
+  title={Anaplasma phagocytophilum Ecotype Analysis in Cattle from Great Britain},
+  author={Apaa, Ternenge Thaddaeus and McFadzean, Harriet and Gandy, Sara and Hansford, Kayleigh and Medlock, Jolyon and Johnson, Nicholas},
+  journal={Pathogens},
+  volume={12},
+  number={8},
+  pages={1029},
+  year={2023},
+  publisher={MDPI}
+}
