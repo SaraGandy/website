@@ -25,7 +25,7 @@ publishDate: '2021-09-30T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In Parasites & Vectors
+publication: In *Parasites & Vectors*
 
 
 
