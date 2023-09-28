@@ -82,56 +82,45 @@ sections:
       columns: '2'
   - block: experience
     content:
-      title: Experiencesssss
+      title: Scolarships & awards
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Senior Medical Entomologist
-          company: UK Health Security Agency
-          company_url: ''
-          company_logo: 
-          location: Porton Down, UK
-          date_start: '2023-03-03'
-          date_end: ''
-          description: |2-
-              As a Senior Medical Entomologist, I lead a range of ecological research projects, including the National Tick Survey and various projects investigating the impacts of land management and host presence on tick-borne disease hazard. My responsibilities include:
-
-              * Managing ecological research projects
-              * Coordinating with Stakeholders
-              * Management of data entry
-              * Data analysis (data visualisation, statistical modeling, spatial modeling)
-              * Writing peer-reviewed articles
-        - title: Medical Entomologist
-          company: UK Health Security Agency
-          company_url: ''
-          company_logo: 
-          location: Porton Down, UK
-          date_start: '2020-03-08'
-          date_end: '2023-03-01'
-          description: |2-
-              As a Medical Entomologist, I am involved in  a range of ecological research projects focusing on tick-borne diseases in the UK. My responsibilities include:
-
-              * Coordinating field work logistics
-              * Coordinating with Stakeholders
-              * Data entry
-              * Data analysis (data visualisation, statistical modeling, spatial modeling)
-              * Writing peer-reviewed articles
-        - title: PhD Candidate
+        - title: Training award
           company: University of Glasgow
           company_url: ''
           company_logo: 
           location: Glasgow, UK
-          date_start: '2016-10-03'
-          date_end: '2020-09-10'
-          description: My PhD focusses on the impacts of host community composition on Lyme disease hazard in Scottish woodlands.
+          date_start: '2019-09-01'
+          date_end: '2019-09-07'
+          description: I received a sclolarship of £540 granted by the University of Glasgow to attend a workshop on Bayesian Statistics
+        - title: Travel grant
+          company: VectorBite
+          company_url: ''
+          company_logo: 
+          location:
+          date_start: '2019-06-01'
+          date_end: '2019-06-07'
+          description: Travel grant of £200 granted by VectorBite to attend a meeting/workshop in Trento, Italy
+        - title: Travel grant
+          company: VectorBite
+          company_url: ''
+          company_logo: 
+          location:
+          date_start: '2018-06-01'
+          date_end: '2018-06-07'
+          description: Travel grant of 1200USD granted by VectorBite to attend a meeting/workshop in Pacific Grove, US
+        - title: PhD funding
+          company: University of Glasgow/Macaulay fund
+          company_url: ''
+          company_logo: 
+          location:
+          date_start: '2016-10-01'
+          date_end: '2016-10-02'
+          description: Competitive PhD studenship of ~£90,000 obtained
     design:
-      columns: '2'
+      columns: '2'    
       
   - block: collection
     id: featured
