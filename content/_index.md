@@ -26,7 +26,7 @@ sections:
         - name: vector-borne diseases
           description:
           icon: bug
-          icon_pack: fat
+          icon_pack: fal
 
 
   - block: experience
