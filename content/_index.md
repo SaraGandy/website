@@ -80,49 +80,7 @@ sections:
           description: My PhD focusses on the impacts of host community composition on Lyme disease hazard in Scottish woodlands.
     design:
       columns: '2'
-      
-      
-  - block: awards
-    content:
-      title: Scolarships & awards
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      items:
-        - title: Training award
-          company: University of Glasgow
-          company_url: ''
-          company_logo: 
-          location: Glasgow, UK
-          date_start: '2019-09-01'
-          date_end: '2019-09-07'
-          description: I received a sclolarship of £540 granted by the University of Glasgow to attend a workshop on Bayesian Statistics
-        - title: Travel grant
-          company: VectorBite
-          company_url: ''
-          company_logo: 
-          location:
-          date_start: '2019-06-01'
-          date_end: '2019-06-07'
-          description: Travel grant of £200 granted by VectorBite to attend a meeting/workshop in Trento, Italy
-        - title: Travel grant
-          company: VectorBite
-          company_url: ''
-          company_logo: 
-          location:
-          date_start: '2018-06-01'
-          date_end: '2018-06-07'
-          description: Travel grant of 1200USD granted by VectorBite to attend a meeting/workshop in Pacific Grove, US
-        - title: PhD funding
-          company: University of Glasgow/Macaulay fund
-          company_url: ''
-          company_logo: 
-          location:
-          date_start: '2016-10-01'
-          date_end: '2016-10-02'
-          description: Competitive PhD studenship of ~£90,000 obtained
-    design:
-      columns: '2'    
+ 
   - block: collection
     id: featured
     content:
