@@ -19,14 +19,14 @@ sections:
           description:
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: Ecological research
           description:
-          icon: chart-line
-          icon_pack: fas
+          icon: tree
+          icon_pack: fat
         - name: vector-borne diseases
           description:
           icon: bug
-          icon_pack: fas
+          icon_pack: fat
 
 
   - block: experience
