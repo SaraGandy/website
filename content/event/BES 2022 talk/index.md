@@ -1,24 +1,24 @@
 ---
-title: Poster presentation at the NorthTick conference 
+title: Talk at the British Ecological Society conference in December 2022 
 
-event: NorthTick conference
-event_url: https://northsearegion.eu/northtick/news/northtick-2023-international-conference/
+event: British Ecological Society
+event_url: https://www.britishecologicalsociety.org/events/bes-annual-meeting-2022/
 
-location: Centre for Health Sciences 
+location: Edinburgh ICC
 address:
-  street: Old Perth Road
-  city: Inverness
+  street: 
+  city: Edinburgh
   region: 
-  postcode: IV2 3JH
+  postcode: 
   country: United Kingdom
 
-summary: Poster presentation on the Tick Surveillance Scheme at the NorthTick conference in May 2023
-abstract: 'Tick-borne disease risk is linked to the distribution of tick vector species. Thus, to assess disease risk and possible emergence, understanding tick distribution, seasonality and host associations is needed and this can be achieved through passive surveillance. The aim of this study was to use data from the UK Tick Surveillance Scheme to assess changes in tick distribution and understand which species of ticks are present in the UK and their distribution. Data was collected through passive surveillance between 2013 and 2020. Members of the public, GPs, veterinary practices and wildlife charities were able to submit ticks found on humans and animals along with information about location, date the ticks were found and the hosts they were found on. We also investigated potential changes in the distribution of *I*. *ricinus*, the main vector of several pathogens including *Borrelia burgdorferi* s.l. (agent of Lyme borreliosis) and tick-borne encephalitis virus. We selected records of *I. ricinus* bites on humans, dogs and cats in the UK and we divided the UK into 20 km x 20 km grids. We then investigated changes in the proportion of grids reporting a tick bite for each region using statistical models. Between 2012 and 2020, 7662 records were received and 37 tick species were detected. Most records were acquired in the UK with only 237 that were associated with recent overseas travel. The dominant species was *I. ricinus* and records peaked during May and June, highlighting a key risk period for tick bites. Other key UK species were detected, including *Dermacentor reticulatus* and *Haemaphysalis punctata* as well as several rarer species that may present novel tick-borne disease risk to humans and other animals. Imported ticks were also detected, including Crimea Congo Haemorrhagic fever virus vector *Hyalomma*. When investigating potential expansion of *I. ricinus*, 9.2% (range 1.2%–30%) of grids had at least one record every year since 2013. Most regions reported a yearly increase in the percentage of grids reporting *I. ricinus* since 2013 and the highest changes occurred in the South and East England with 5%–6.7% of new grids reporting *I. ricinus* bites each year in areas that never reported ticks before. Spatiotemporal analyses suggested that, while all regions recorded *I. ricinus* in new areas every year, there was a yearly decline in the percentage of new areas covered, except for Scotland. To conclude, these data allowed us to better understand the tick species present in the UK and their distribution. In addition, we identified a possible expansion of *I. ricinus* between 2013 and 2020.'
+summary: Talk on the possible expansion of *Ixodes ricinus* ticks in the UK at the BES conference in December 2022
+abstract: 'The tick *Ixodes ricinus* is the main vector of several pathogens including *Borrelia burgdorferi* s.l. and tick-borne encephalitis virus. Its distribution depends on many factors including suitable habitat, climate and presence of hosts. In this study, we present records of *I. ricinus* bites on humans, dogs and cats in the United Kingdom (UK) obtained through the Tick Surveillance Scheme between 2013 and 2020. We divided the UK into 20 km x 20 km grids and 9.2% (range 1.2%–30%) of grids had at least one record every year since 2013. Most regions reported a yearly increase in the percentage of grids reporting *I. ricinus* since 2013 and the highest changes occurred in the South and East England with 5%–6.7% of new grids reporting *I. ricinus* bites each year in areas that never reported ticks before. Spatiotemporal analyses suggested that, while all regions recorded *I. ricinus* in new areas every year, there was a yearly decline in the percentage of new areas covered, except for Scotland. We discuss potential drivers of tick expansion, including reforestation and increase in deer populations'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-05-30T11:00:00Z'
-date_end: '2023-05-31T17:00:00Z'
+date: '2022-12-18T11:00:00Z'
+date_end: '2022-12-21T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -32,7 +32,7 @@ featured: true
 
 image:
   focal_point: Right
-
+  caption: 'Image credit: [**BES*](https://www.britishecologicalsociety.org/events/bes-annual-meeting-2022/)'
 
 
 # Markdown Slides (optional).
