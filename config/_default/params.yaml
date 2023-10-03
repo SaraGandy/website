@@ -21,7 +21,7 @@ appearance:
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
   theme_day: saratheme
-  theme_night: minimal
+  theme_night:
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
