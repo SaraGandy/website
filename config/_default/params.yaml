@@ -20,8 +20,8 @@ appearance:
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-  theme_day: saratheme
-  theme_night:
+  theme_day: earth
+  theme_night: earth
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
