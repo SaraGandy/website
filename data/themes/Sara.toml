@@ -1,17 +1,21 @@
 # Theme metadata
-name = "Sara"
 
-[light]
-  # Primary
-  primary = "#795548"
+# Based off of the Hugo Academic "minimal" theme and Silvia Canelon's theme
+name = "My Theme: Laurie"
 
-  # Menu
-  menu_primary = "#795548"
-  menu_text = "rgba(255,255,255,0.6)"
-  menu_text_active = "rgba(255,255,255,1)"
-  menu_title = "#fff"
+# Is theme light or dark?
+light = true
 
-  # Backgrounds
-  background = "hsla(16, 24%, 85%, 1)"
-  home_section_odd = "hsla(16, 24%, 85%, 1)"
-  home_section_even = "hsla(16, 24%, 80%, 1)"
+# Primary
+primary = "#26867c" # changes colors of links
+
+# Menu
+menu_primary = "#122140"
+menu_text = "rgba(255,255,255,0.6)" # "#34495e" # main text in menu
+menu_text_active = "#e58500" # social media icons
+menu_title = "#fff" # text in the menu bar
+
+# Home sections
+background = "rgb(255, 255, 255)" # page background
+home_section_odd = "rgb(255, 255, 255)" # white
+home_section_even = "#fafafb" # light gray
