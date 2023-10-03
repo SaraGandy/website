@@ -19,7 +19,7 @@ removePathAccents: true
 ## MODULES
 ############################
 
-#module:
+module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-gthemes/modules/wowchemy-pluin-netlify-cms
     - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
