@@ -5,14 +5,15 @@ name = "Sara"
 light = true
 
 # Primary
-primary = "#008080"
+primary = "#26867c" # changes colors of links
 
 # Menu
-menu_primary = "#008080"
-menu_text = "#fff"
-menu_text_active = "rgb(208, 255, 56)"
-menu_title = "#fff"
+menu_primary = "#122140"
+menu_text = "rgba(255,255,255,0.6)" # "#34495e" # main text in menu
+menu_text_active = "#e58500" # social media icons
+menu_title = "#fff" # text in the menu bar
 
 # Home sections
-home_section_odd = "#fff"
-home_section_even = "#fff"
+background = "rgb(255, 255, 255)" # page background
+home_section_odd = "rgb(255, 255, 255)" # white
+home_section_even = "#fafafb" # light gray
