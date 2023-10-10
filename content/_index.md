@@ -82,6 +82,7 @@ sections:
               * Data entry
               * Data analysis (data visualisation, statistical modeling, spatial modeling)
               * Writing peer-reviewed articles
+          <div style="text-align: left;"></div>
         - title: Graduate teaching assistant
           company: University of Glasgow
           company_url: ''
