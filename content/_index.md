@@ -39,7 +39,7 @@ sections:
               * Sanger sequencing
           icon: flask
           icon_pack: fas
-       <div style="text-align: left;"></div>
+        <div style="text-align: left;"></div>
 
   - block: experience
     content:
