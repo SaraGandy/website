@@ -25,9 +25,8 @@ sections:
           icon_pack: fas
         - name: Laboratory
           description: My laboratory skills include vector morphological identification (ticks, mosquito), DNA extraction (ammomium based, Qiagen), Polymerase-chain reactions (real time & nested) and Sanger sequencing.
-
-          icon: flask-vial
-          icon_pack: far
+          icon: flask
+          icon_pack: fal
 
   - block: experience
     content:
