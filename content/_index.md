@@ -101,7 +101,7 @@ sections:
           location: Grimsö, Sweden
           date_start: '2015-01-01'
           date_end: '2015-08-30'
-          description: My research project focused on understanding the influence of time, temperature and humidity on *Ixodes* *ricinus* (Acari: Ixodidae) density in Sweden.
+          description: My research project focused on understanding the influence of time, temperature and humidity on *Ixodes ricinus* density in Sweden.
     design:
       columns: '2'
   - block: experience
