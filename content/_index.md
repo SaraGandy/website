@@ -23,7 +23,7 @@ sections:
           description:
           icon: tree
           icon_pack: fas
-        - name: vector-borne diseases
+        - name: Vector-borne diseases
           description:
           icon: bug
           icon_pack: fas
