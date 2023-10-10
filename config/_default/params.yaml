@@ -86,7 +86,7 @@ features:
   syntax_highlighter:
     theme_light: github-light
     theme_dark: dracula
-  align: l
+  text-align: l
   math:
     enable: false
   privacy_pack:
