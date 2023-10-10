@@ -16,28 +16,26 @@ sections:
       title: Skills
       items:
         - name: R & Statistics
-          align: left
           description: |2-
-              *Statistical modeling (GLMs, GLMMs, spatial modeling and GAMs), data visualisation (ggplot2 & tmap)and data wrangling (tidyverse, dplyr) in R
-              *Use of qGIS to produce maps and conduct spatial analyses
-              *DNAstar for bioinformatics
+              * Statistical modeling (GLMs, GLMMs, spatial modeling and GAMs), data visualisation (ggplot2 & tmap)and data wrangling (tidyverse, dplyr) in R
+              * Use of qGIS to produce maps and conduct spatial analyses
+              * DNAstar for bioinformatics
           icon: r-project
           icon_pack: fab
         - name: Field work
           description: |2-
-              *Capture/Marking/Recapture of ungulate (roe deer) and rodents 
-              *Monitoring: Radio-telemetry, camera trapping, distance sampling
-              *Blood/skin biopsy sampling (rodents, deer)
-              *Vector collection in the field (ticks, sandflies, mosquitoes)
+              * Capture/Marking/Recapture of ungulate (roe deer) and rodents 
+              * Monitoring: Radio-telemetry, camera trapping, distance sampling
+              * Blood/skin biopsy sampling (rodents, deer)
+              * Vector collection in the field (ticks, sandflies, mosquitoes)
           icon: tree
           icon_pack: fas
         - name: Laboratory
           description: |2-
-              *Vector morphological identification (ticks, mosquito)
-              *DNA extraction (ammomium based, Qiagen)
-              *Polymerase-chain reactions (real time & nested)
-              *Sanger sequencing
-          align: left
+              * Vector morphological identification (ticks, mosquito)
+              * DNA extraction (ammomium based, Qiagen)
+              * Polymerase-chain reactions (real time & nested)
+              * Sanger sequencing
           icon: flask
           icon_pack: fas
 
@@ -219,4 +217,7 @@ sections:
           captcha: false
     design:
       columns: '2'
+---
+
+{style="text-align: justify;"}
 ---
