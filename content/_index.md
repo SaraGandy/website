@@ -70,6 +70,15 @@ sections:
               * Data entry
               * Data analysis (data visualisation, statistical modeling, spatial modeling)
               * Writing peer-reviewed articles
+        - title: Graduate teaching assistant
+          company: University of Glasgow
+          company_url: ''
+          company_logo: 
+          location: Glasgow, UK
+          date_start: '2016-11-01'
+          date_end: '2020-05-30'
+          description: As a graduate teaching assistant, I was teaching undergraduate and MSc students during practicals and tutorial sessions on general biology (labs & marking), introduction to GIS, statistics (GLMs, GLMMs, dplyr & ggplot2 in R), marine biologgy (field course) and molecular biology (labs).
+
         - title: PhD Candidate
           company: University of Glasgow
           company_url: ''
@@ -77,7 +86,26 @@ sections:
           location: Glasgow, UK
           date_start: '2016-10-03'
           date_end: '2020-09-10'
-          description: My PhD focusses on the impacts of host community composition on Lyme disease hazard in Scottish woodlands.
+          description: My PhD focussed on the impacts of host community composition on Lyme disease hazard in Scottish woodlands.
+          
+        - title: Field technician
+          company: Grimsö research station
+          company_url: ''
+          company_logo: 
+          location: Grimsö, Sweden
+          date_start: '2016-05-01'
+          date_end: '2016-07-31'
+          description: As a field technician, my duties included mammal capture (roe deer, rodents), blood sampling, radio-telemetry, animal survey, tick collection, tick identification and distance sampling.
+          
+        - title: MSc research project
+          company: Grimsö research station
+          company_url: ''
+          company_logo: 
+          location: Grimsö, Sweden
+          date_start: '2015-01-01'
+          date_end: '2015-08-31'
+          description: My research project focussed on understanding the influence of time, temperature and humidity on *Ixodes* *ricinus* (Acari: Ixodidae) density in Sweden.
+
     design:
       columns: '2'
   - block: experience
