@@ -220,6 +220,5 @@ sections:
       columns: '2'
 ---
 
-{style="text-align: justify;"}
+{style="text-align: left"}
 ---
-
