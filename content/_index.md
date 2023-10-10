@@ -16,17 +16,18 @@ sections:
       title: Skills
       items:
         - name: R & Statistics
-          description: I can use R to perform statistical modeling (GLMs, GLMMs, GAMs) & data visualisation, including producign maps. I am also familiar with qGIS and can produce maps as well as perform spatial analyses.  
+          description: Using R, I can perform statistical modeling including GLMs, GLMMs, spatial modeling and GAMs, data visualisation (ggplot2 & tmap)and data wrangling (tidyverse, dplyr). I also use qGIS to produce maps and conduct spatial analyses and DNAstar for sequencing analyses.
           icon: r-project
           icon_pack: fab
-        - name: Ecological research
-          description:
+        - name: Field work
+          description: My field work skills include Capture/Marking/Recapture of ungulate (roe deer) and carnivors (lynx), radio-telemetry, live rodent trapping & handling, blood/skin biopsy sampling (rodents, deer), camera trapping, distance sampling and vector collection in the field (ticks, sandflies, mosquitoes).
           icon: tree
           icon_pack: fas
-        - name: Vector-borne diseases
-          description:
-          icon: bug
-          icon_pack: fas
+        - name: Laboratory
+          description: My laboratory skills include vector morphological identification (ticks, mosquito), DNA extraction (ammomium based, Qiagen), Polymerase-chain reactions (real time & nested) and Sanger sequencing.
+
+          icon: flask-vial
+          icon_pack: far
 
   - block: experience
     content:
