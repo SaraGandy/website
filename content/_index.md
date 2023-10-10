@@ -14,7 +14,7 @@ sections:
   - block: features
     content:
       title: Skills
-      align: left
+      text-align: left
       items:
         - name: R & Statistics
           description: |2-
@@ -39,8 +39,7 @@ sections:
               * Sanger sequencing
           icon: flask
           icon_pack: fas
-        <div style="text-align: left;"></div>
-
+     
   - block: experience
     content:
       title: Experience
