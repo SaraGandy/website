@@ -40,6 +40,12 @@ education:
     - course: BSc in Applied Bioscience and Zoology
       institution: University of the West of Scotland
       year: 2012
+      
+# Tesy to show in About widget
+jdoisajoi:
+  - jiojoi
+  - huihi
+  - huiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii     
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
