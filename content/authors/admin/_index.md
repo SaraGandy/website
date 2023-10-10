@@ -41,11 +41,6 @@ education:
       institution: University of the West of Scotland
       year: 2012
       
-# Tesy to show in About widget
-interests:
-  - jiojoi
-  - huihi
-  - huiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii     
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

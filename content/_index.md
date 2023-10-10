@@ -16,7 +16,7 @@ sections:
       title: Skills
       items:
         - name: R & Statistics
-          description:
+          description: I can use R to perform statistical modeling (GLMs, GLMMs, GAMs) & data visualisation, including producign maps. I am also familiar with qGIS and can produce maps as well as perform spatial analyses.  
           icon: r-project
           icon_pack: fab
         - name: Ecological research
