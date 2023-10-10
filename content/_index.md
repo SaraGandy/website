@@ -14,6 +14,7 @@ sections:
   - block: features
     content:
       title: Skills
+      align: left
       items:
         - name: R & Statistics
           description: |2-
@@ -221,3 +222,4 @@ sections:
 
 {style="text-align: justify;"}
 ---
+
