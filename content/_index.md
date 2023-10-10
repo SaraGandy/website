@@ -16,7 +16,12 @@ sections:
       title: Skills
       items:
         - name: R & Statistics
-          description: Using R, I can perform statistical modeling including GLMs, GLMMs, spatial modeling and GAMs, data visualisation (ggplot2 & tmap)and data wrangling (tidyverse, dplyr). I also use qGIS to produce maps and conduct spatial analyses and DNAstar for sequencing analyses.
+          description: |2-
+              Including:
+
+              * Statistical modeling (GLMs, GLMMs, spatial modeling and GAMs), data visualisation (ggplot2 & tmap)and data wrangling (tidyverse, dplyr) in R
+              * Use of qGIS to produce maps and conduct spatial analyses
+              * DNAstar for bioinformatics
           icon: r-project
           icon_pack: fab
         - name: Field work
@@ -26,7 +31,7 @@ sections:
         - name: Laboratory
           description: My laboratory skills include vector morphological identification (ticks, mosquito), DNA extraction (ammomium based, Qiagen), Polymerase-chain reactions (real time & nested) and Sanger sequencing.
           icon: flask
-          icon_pack: fal
+          icon_pack: fas
 
   - block: experience
     content:
