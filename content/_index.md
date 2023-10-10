@@ -16,6 +16,7 @@ sections:
       title: Skills
       items:
         - name: R & Statistics
+          align: left
           description: |2-
               Including:
 
