@@ -42,7 +42,7 @@ education:
       year: 2012
       
 # Tesy to show in About widget
-jdoisajoi:
+interests:
   - jiojoi
   - huihi
   - huiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii     
