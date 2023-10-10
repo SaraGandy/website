@@ -18,15 +18,17 @@ sections:
         - name: R & Statistics
           align: left
           description: |2-
-              Including:
-
               * Statistical modeling (GLMs, GLMMs, spatial modeling and GAMs), data visualisation (ggplot2 & tmap)and data wrangling (tidyverse, dplyr) in R
               * Use of qGIS to produce maps and conduct spatial analyses
               * DNAstar for bioinformatics
           icon: r-project
           icon_pack: fab
         - name: Field work
-          description: My field work skills include Capture/Marking/Recapture of ungulate (roe deer) and carnivors (lynx), radio-telemetry, live rodent trapping & handling, blood/skin biopsy sampling (rodents, deer), camera trapping, distance sampling and vector collection in the field (ticks, sandflies, mosquitoes).
+          description: |2-
+              * Capture/Marking/Recapture of ungulate (roe deer) and rodents 
+              * Monitoring: Radio-telemetry, camera trapping, distance sampling
+              * Blood/skin biopsy sampling (rodents, deer)
+              * Vector collection in the field (ticks, sandflies, mosquitoes).
           icon: tree
           icon_pack: fas
         - name: Laboratory
