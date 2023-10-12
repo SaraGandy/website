@@ -18,25 +18,25 @@ sections:
       items:
         - name: R & Statistics
           description: |2-
-              * Statistical modeling (GLMs, GLMMs, GAMs) in R
-              * qGIS (spatial analyses)
-              * DNAstar for bioinformatics
+               Statistical modeling (GLMs, GLMMs, GAMs) in R
+               qGIS (spatial analyses)
+               DNAstar for bioinformatics
           icon: r-project
           icon_pack: fab
         - name: Field work
           description: |2-
-              * Live capture of ungulate & rodents 
-              * Radio-telemetry, camera trapping
-              * Blood/skin biopsy sampling
-              * Collection of ticks/mosquitoes
+               Live capture of ungulate & rodents 
+               Radio-telemetry, camera trapping
+               Blood/skin biopsy sampling
+               Collection of ticks/mosquitoes
           icon: tree
           icon_pack: fas
         - name: Laboratory
           description: |2-
-              * Tick/mosquito morphological ID
-              * DNA extraction 
-              * PCR (real time & nested)
-              * Sanger sequencing
+               Tick/mosquito morphological ID
+               DNA extraction 
+               PCR (real time & nested)
+               Sanger sequencing
           icon: flask
           icon_pack: fas
      
@@ -220,5 +220,4 @@ sections:
       columns: '2'
 ---
 
-{style="text-align: left"}
----
+##  {style="text-align: left"}
