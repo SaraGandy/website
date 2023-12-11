@@ -1,5 +1,5 @@
 ---
-title: 'Research publication'
+title: 'Managing red sheep ticks in Sussex'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,6 +9,9 @@ authors:
   - Kayleigh Hansford
   - admin
   - Alexander Vaux
+  - Emma Keane
+  - Paul Phipps
+  - Nick Johnson
 
 
 date: '2022-03-01T00:00:00Z'

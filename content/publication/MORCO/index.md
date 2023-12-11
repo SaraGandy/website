@@ -1,5 +1,5 @@
 ---
-
+title: 'Experimental evidence for opposing effects of high deer density on tick-borne pathogen prevalence and hazard'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
