@@ -1,0 +1,10 @@
+@article{gandy2023Babesia,
+  title={Detection of Babesia species in questing Ixodes ricinus ticks in England and Wales},
+  author={Gandy, Sara and Medlock, Jolyon and Cull, Benjamin and Smith, Rob and Gibney, Zoe and Sewgobin, Sanam and Parekh, Insiyah and Harding, Sophie and Johnson, Nicholas and Hansford, Kayleigh},
+  journal={Ticks and Tick-borne Diseases},
+  volume={15},
+  number={1},
+  pages={102291},
+  year={2023},
+  publisher={Elsevier}
+}
