@@ -1,4 +1,5 @@
 ---
+title: 'Detection of *Babesia* species in questing *Ixodes ricinus* ticks in England and Wales'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -6,8 +7,8 @@
 authors:
   - admin
   - Jolyon Medlock
-  - Benjamin Cull
-  - Rob Smith 
+  - Ben Cull 
+  - Rob Smith
   - Zoe Gibney
   - Sanam Sewgobind
   - Insiyah Parekh
@@ -17,7 +18,7 @@ authors:
 
 
 date: '2024-01-01T00:00:00Z'
-doi: 'https://doi.org/10.1016/j.ttbdis.2023.102291'
+doi: ' 10.1016/j.ttbdis.2023.102291'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-01-01T00:00:00Z'
@@ -29,19 +30,20 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Ticks and Tick-borne Diseases*
+publication: In Ticks and Tick-borne Diseases
+
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1016/j.ttbdis.2023.102291'
+url_pdf: 'http://dx.doi.org/10.1016/j.ttbdis.2023.102291'
 
 
 # Featured image
