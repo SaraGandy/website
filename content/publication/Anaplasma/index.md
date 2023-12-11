@@ -1,5 +1,5 @@
 ---
-title: 'Prevalence of Anaplasma phagocytophilum in questing Ixodes ricinus nymphs across twenty recreational areas in England and Wales'
+title: 'Prevalence of *Anaplasma phagocytophilum* in questing *Ixodes ricinus* nymphs across twenty recreational areas in England and Wales'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
