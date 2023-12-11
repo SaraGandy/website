@@ -1,5 +1,5 @@
 ---
-title: 'Detection of *Babesia* species in questing *Ixodes ricinus* ticks in England and Wales'
+title: 'Detection of Babesia species in questing Ixodes ricinus ticks in England and Wales'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
