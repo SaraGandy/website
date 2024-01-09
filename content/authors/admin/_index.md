@@ -11,15 +11,15 @@ last_name: Gandy
 superuser: true
 
 # Role/position/tagline
-role: Senior Medical Entomologist
+role: Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: UK Health Security Agency 
-    url: https://www.gov.uk/government/organisations/uk-health-security-agency
+  - name: University of Glasgow
+    url: https://www.gla.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research primarily focuses on understanding the ecological drivers of tick-borne diseases to provide insights on the mechanisms involved in transmission cycles, especially on the interactions between ticks, hosts and pathogens. My research includes investigating the impacts of environmental changes (woodland restoration, rewilding) and host community composition (deer, rodent and birds) on tick-borne diseases risks in the UK. Some of my findings uncovered an opposing effect of deer densities on Lyme disease hazard through their positive effects on tick density and negative effects on infection prevalence. I also published work looking at spatiotemporal changes in tick distribution using passive surveillance data and I am currently leading the National Tick Survey, which involves collaborating with stakeholders in thirty National Parks and recreational areas to collect ticks and test them for various tick-transmitted pathogens. The goal is to understand disease hazard and temporal variation in areas visited by members of the public and deliver tick awareness messages. 
+bio: My research primarily focuses on understanding the ecological drivers of tick-borne diseases to provide insights on the mechanisms involved in transmission cycles, especially on the interactions between ticks, hosts and pathogens. My research includes investigating the impacts of environmental changes (woodland restoration, rewilding) and host community composition (deer, rodent and birds) on tick-borne diseases risks in the UK. Some of my findings uncovered an opposing effect of deer densities on Lyme disease hazard through their positive effects on tick density and negative effects on infection prevalence. I also published work looking at spatiotemporal changes in tick distribution using passive surveillance data and I have been leading the National Tick Survey, which involves collaborating with stakeholders in thirty National Parks and recreational areas to collect ticks and test them for various tick-transmitted pathogens between 2021 and 2024. The goal is to understand disease hazard and temporal variation in areas visited by members of the public and deliver tick awareness messages. 
 
 
 # Interests to show in About widget
@@ -32,7 +32,7 @@ interests:
 education:
   courses:
     - course: PhD in Lyme disease ecology
-      institution: Unviersity of Glasgow
+      institution: University of Glasgow
       year: 2020
     - course: MSc in Environmental & Wildlife Conservation, 1st Class
       institution: University of Reims
@@ -65,7 +65,7 @@ social:
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'sara.gandy@ukhsa.gov.uk'
+email: 'sara.gandy@glasgow.ac.uk'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

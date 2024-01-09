@@ -41,13 +41,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Associate
+          company: University of Glasgow
+          company_url: ''
+          company_logo: 
+          location: Glasgow, UK
+          date_start: '2024-03-04'
+          date_end: ''
+          description: I am currently a postdoc at the University of Glasgow working on the Measure project, which is led by the University of Manchester and aims to understand ecological services and disservices of urban green space. My work focus on how urban green spaces may shape tick-borne disease hazard in urban areas.
         - title: Senior Medical Entomologist
           company: UK Health Security Agency
           company_url: ''
           company_logo: 
           location: Porton Down, UK
           date_start: '2023-03-03'
-          date_end: ''
+          date_end: '2024-02-06'
           description: |2-
               As a Senior Medical Entomologist, I lead a range of ecological research projects, including the National Tick Survey and various projects investigating the impacts of land management and host presence on tick-borne disease hazard. My responsibilities include:
 
@@ -189,8 +197,8 @@ sections:
       subtitle:
       text: 
       # Contact (add or remove contact options as necessary)
-      email: sara.gandy@ukhsa.gov.uk
-      phone: +44(0) 7929 853811
+      email: sara.gandy@glasgow.ac.uk
+      phone: 
       address:
         street: Manor Farm Road, Porton Down
         city: Salisbury
