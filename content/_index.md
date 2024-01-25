@@ -200,10 +200,10 @@ sections:
       email: sara.gandy@glasgow.ac.uk
       phone: 
       address:
-        street: Manor Farm Road, Porton Down
-        city: Salisbury
-        region: Wiltshire
-        postcode: 'SP4 0JG'
+        street: School of Biodiversity, One Health & Veterinary Medicine, University of Glasgow
+        city: Glasgow
+        region: 
+        postcode: 'G12 8QQ'
         country: United Kingdom
         country_code: UK
       contact_links:
