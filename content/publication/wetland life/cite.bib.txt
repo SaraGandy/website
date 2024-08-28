@@ -1,0 +1,10 @@
+@article{medlock2024wetlandlife,
+  title={Mosquito diversity and abundance in English wetlands – empirical evidence to guide predictions for wetland suitability for mosquitoes (Diptera: Culicidae)},
+  author={Medlock, Jolyon and Hawkes, Frances and Cheke, Robert and Gibson, G and Abbott, Anthony and Cull, Benjamin and Gandy, Sara and Hardy, Harrison and Acott, T and Vaux, Alexander},
+  journal={Journal of the European Mosquito Control Association},
+  volume={42},
+  number={},
+  pages={329},
+  year={2024},
+  publisher={Brill Wageningen Academic}
+}
