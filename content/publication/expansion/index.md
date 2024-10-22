@@ -38,7 +38,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://resjournals.onlinelibrary.wiley.com/doi/full/10.1111/mve.12612'
-
+doi: 'http://dx.doi.org/10.1111/mve.12612'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

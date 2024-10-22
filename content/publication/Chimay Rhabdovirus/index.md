@@ -43,6 +43,7 @@ featured: false
 
 
 url_pdf: 'https://www.mdpi.com/1999-4915/16/4/504'
+doi: 'http://dx.doi.org/10.3390/v16040504'
 
 
 # Featured image

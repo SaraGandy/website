@@ -41,6 +41,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://www.mdpi.com/2076-0817/12/8/1029'
+doi: 'http://dx.doi.org/10.3390/pathogens12081029'
 
 
 # Featured image

@@ -16,7 +16,7 @@ authors:
 
 
 date: '2024-09-03T00:00:00Z'
-doi: ' :10.52004/2054930X-20241011'
+doi: ' :http://dx.doi.org/10.52004/2054930x-20241011'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-09-13T00:00:00Z'

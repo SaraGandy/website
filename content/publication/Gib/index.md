@@ -43,6 +43,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://www.wageningenacademic.com/doi/abs/10.52004/JEMCA2022.0001'
+doi: 'http://dx.doi.org/10.52004/JEMCA2022.0001'
 
 
 # Featured image

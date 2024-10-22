@@ -14,7 +14,7 @@ authors:
 
 
 date: '2022-12-01T00:00:00Z'
-doi: ' 10.52004/JEMCA2022.0004'
+doi: 'http://dx.doi.org/10.52004/JEMCA2022.0004'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-12-01T00:00:00Z'
