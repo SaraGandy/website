@@ -1,0 +1,11 @@
+@article{Medlock2024IsleofWight,
+  title={Ixodes ricinus (Acari, Ixodidae) ticks and tick-borne pathogen prevalence
+on the Isle of Wight – an island perspective in southern England},
+  author={Medlock, Jolyon and Gandy, Sara and White, Mia and Kohl, Robert and Sprong, Hein and Hansford, Kayleigh},
+  journal={Journal of the European Mosquito Control Association},
+  volume={},
+  number={},
+  pages={1-15},
+  year={2024},
+  publisher={Brill Wageningen Academic}
+}
