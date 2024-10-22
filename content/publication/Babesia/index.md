@@ -18,7 +18,7 @@ authors:
 
 
 date: '2023-12-01T00:00:00Z'
-doi: ' http://dx.doi.org/10.1016/j.ttbdis.2023.102291'
+doi: ' 10.1016/j.ttbdis.2023.102291'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-12-01T00:00:00Z'

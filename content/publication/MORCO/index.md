@@ -13,7 +13,7 @@ authors:
 
 
 date: '2021-09-30T00:00:00Z'
-doi: 'https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-021-05000-0'
+doi: '10.1186/s13071-021-05000-0'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-09-30T00:00:00Z'

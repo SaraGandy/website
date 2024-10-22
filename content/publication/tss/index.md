@@ -16,7 +16,7 @@ authors:
 
 
 date: '2022-10-01T00:00:00Z'
-doi: 'http://dx.doi.org/10.1111/mve.12621'
+doi: '10.1111/mve.12621'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-10-01T00:00:00Z'

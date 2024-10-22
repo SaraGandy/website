@@ -15,7 +15,7 @@ authors:
 
 
 date: '2022-03-01T00:00:00Z'
-doi: 'http://dx.doi.org/10.1002/vetr.1555'
+doi: '10.1002/vetr.1555'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-03-01T00:00:00Z'

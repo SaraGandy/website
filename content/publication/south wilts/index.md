@@ -17,7 +17,7 @@ authors:
 
 
 date: '2022-05-01T00:00:00Z'
-doi: 'http://dx.doi.org/10.1111/mve.12574'
+doi: '10.1111/mve.12574'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-05-01T00:00:00Z'
