@@ -1,5 +1,5 @@
 ---
-title: '*Ixodes ricinus* (Acari, Ixodidae) ticks and tick-borne pathogen prevalence
+title: 'Ixodes ricinus (Acari, Ixodidae) ticks and tick-borne pathogen prevalence
 on the Isle of Wight – an island perspective in southern England'
 
 # Authors
