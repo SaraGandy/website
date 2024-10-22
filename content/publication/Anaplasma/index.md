@@ -21,7 +21,7 @@ authors:
 
 
 date: '2022-05-01T00:00:00Z'
-doi: ' 10.1016/j.ttbdis.2022.101965'
+doi: '10.1016/j.ttbdis.2022.101965'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-05-01T00:00:00Z'
