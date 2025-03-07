@@ -31,7 +31,7 @@ authors:
   - Michael Grant Bertram
   - Peter D. Billman
   - Charlie K. Blake
-  -Shannon Blake
+  - Shannon Blake
   - Louis Bliard
   - Andrea Bonisoli-Alquati
   - Timothée Bonnet
