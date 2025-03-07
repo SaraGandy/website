@@ -1,0 +1,10 @@
+@article{Olsthoorn2025first,
+  title={Woodland expansion and deer management shape tick abundance and Lyme disease hazard},
+  author={Olsthoorn, F and Gilbert, L and Fonville, M and Blache, N and May, L and Mondini, F and Rotbart, R and Schlierenzauer, C and Gandy, S and Sprong, H and Ghazoul, J},
+  journal={Ecological Solutions and Evidence},
+  volume={6},
+  number={1},
+  pages={e12403},
+  year={2025},
+  publisher={British Ecological Society}
+}
