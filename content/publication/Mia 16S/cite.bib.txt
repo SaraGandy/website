@@ -1,0 +1,10 @@
+@article{White2025first,
+  title={A full-length 16S survey using Nanopore sequencing to uncover the bacterial microbiome in Ixodes ricinus ticks from a single UK woodland, collected across three springs (2019-2021)},
+  author={White, M and Crook, J and Hansford, K and Carter, D and Elmore, M and Johston, C and Gandy, S and Lewandowski, K and Vaux, A and Osman, K and Vipond, R and Medlock, J and Feil, E and Pullan, S},
+  journal={Ticks and Tick-Borne Diseases},
+  volume={16},
+  number={1},
+  pages={102506},
+  year={2025},
+  publisher={Elvesier}
+}

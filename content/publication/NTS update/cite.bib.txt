@@ -1,0 +1,10 @@
+@article{Gandy2025first,
+  title={An update on Borrelia burgdorferi s.l. prevalence and hazard in ticks at recreational areas in England and Wales between 2021 and 2023},
+  author={Gandy, S and Brown, F and Yardley, J and Jones, N and Abbott, A and Biddlecombe, S and Johnston, C and Hansford, K and Nelson, A and Williams, C and Medlock, J},
+  journal={Ticks and Tick-Borne Diseases},
+  volume={16},
+  number={1},
+  pages={102523},
+  year={2025},
+  publisher={Elvesier}
+}
