@@ -36,8 +36,6 @@ publication_types: ['2']
 # Publication name and optional abbreviated publication name.
 publication: In Ticks and Tick-Borne Diseases
 
-abstract: *Ixodes ricinus* is a key vector of several bacterial pathogens, including Borrelia and Rickettsia species. To assess bacterial prevalence and diversity, we characterised the microbiome of ticks collected from a single UK woodland, comparing different woodland types, life stages (adult male, female, and nymph), and sampling years (spring 2019–2021). Unlike previous studies that target short regions of the *16S rRNA gene*, we used Nanopore sequencing to generate full-length 16S reads, allowing for higher taxonomic resolution. Our results showed significant microbiome differences across life stages, but not by woodland type or year. *Rickettsia* was the most abundant taxon, with prevalence varying by life stage and year. *Borrelia* was present in all life stages but absent in 2021 samples. *Anaplasma* abundance varied significantly by year and life stage, peaking in nymphs from Pine woodland. *Bartonella* was found across all woodland types, with the highest abundance in nymphs from Oak-dominated areas.
-
 tags: []
 
 # Display this page in the Featured widget?
