@@ -1,0 +1,10 @@
+@article{Gandy2025first,
+  title={The role of large ungulate grazers on Ixodes ricinus and tick-borne pathogens in the New Forest - a case study for future rewilded landscapes},
+  author={Gandy, S and Brown, F and Jones, N and Biddlecombe, S and Kirby, G and Johnston, C and Hansford, K and Apaa, T and Johnson, N and Medlock, J},
+  journal={Ticks and Tick-Borne Diseases},
+  volume={16},
+  number={5},
+  pages={102541},
+  year={2025},
+  publisher={Elvesier}
+}

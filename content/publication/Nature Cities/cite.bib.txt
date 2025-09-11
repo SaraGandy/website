@@ -1,0 +1,10 @@
+@article{Gandy2025first,
+  title={The dependence of urban tick and Lyme disease hazards on the hinterlands },
+  author={Gandy, S and Hall, J and Plahe, G and Watkinson, K and Johnson, D and Birtles, R and Gilbert, L},
+  journal={Nature Cities},
+  volume={In Press},
+  number={},
+  pages={},
+  year={2025},
+  publisher={Springer}
+}
