@@ -1,0 +1,10 @@
+@article{Hansford2025TSS,
+  title={Mapping ticks (Acari: Argasidae, Ixodidae) and informing local public actions: Insights from the United Kingdom Ticks Surveillance Scheme (2021-2024)},
+  author={Hansford, Kayleigh and Brown, Faye and Biddlecombe, Sarah and Yardley, Jonathan and Luce, Emmanuella and Gandy, Sara and Johnston, Colin and Jones, Nicola and Abbott, Anthony and Mackenzie, Beth and Rance, Anna and Meban, Meghan-Louise and Nelson, Andrew and Williams, Christopher and Mellor, Dominic and Semper, Amanda and Petridou, Christina and Pudney, Rachel and Medlock, Jolyon},
+  journal={Ticks and Tick-borne Diseases},
+  volume={17},
+  number={},
+  pages={102579},
+  year={2026},
+  publisher={Elvesier}
+}
