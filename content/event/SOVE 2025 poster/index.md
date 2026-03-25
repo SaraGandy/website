@@ -1,5 +1,5 @@
 ---
-title: Poster presentation at Society for Vector Ecology in October 2024 
+title: Poster presentation at Society for Vector Ecology in October 2025
 
 event: 9th International congress of the Society for Vector Ecology 
 event_url: https://www.sove.org/post/9th-international-congress-of-sove-oct-12-17-2025-in-chania-crete
