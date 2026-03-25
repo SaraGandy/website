@@ -1,0 +1,10 @@
+@article{Gandy202612ities,
+  title={Temporal and spatial drivers of Lyme disease hazard differ between urban and rural environments},
+  author={Gandy, Sara and Hall, Jessica and Plahe, Grace and Johnson, David and Birtles, Richard and Gilbert, Lucy},
+  journal={Landscape and Urban Plannning},
+  volume={269},
+  number={},
+  pages={105597},
+  year={2026},
+  publisher={Elvesier}
+}
