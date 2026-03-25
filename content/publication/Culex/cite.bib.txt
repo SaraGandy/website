@@ -1,0 +1,10 @@
+@article{Widlake2024Culex,
+  title={Spatial distribution of Culex mosquitoes across England and Wales, July 2023},
+  author={Widlake, Emma and Wilson, Roksana and Pilgrim, Jack and Vaux, Alexander and Tanianis-Hughes, Jolanta and Haziqah-Rashid, Amirah and Sherlock, Ken and Delnicka, Agata and Simpson, Amelia and Abbott, Anthony and Johnston, Colin and Martin, Jude and Barlow, Kendall and Aliski, Eloise and Shiels, Saffron and Gandy, Sara and Biddlecombe, Sarah and deKlerk, Joanna and Sedda, Luigi and Medlock, Jolyon and Baylis, Matthew and Blagrove, Marcus},
+  journal={Parasites & Vectors},
+  volume={18},
+  number={},
+  pages={337},
+  year={2025},
+  publisher={Springer}
+}
