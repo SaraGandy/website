@@ -46,9 +46,18 @@ sections:
           company_url: ''
           company_logo: 
           location: Glasgow, UK
-          date_start: '2024-03-04'
+          date_start: '2026-03-02'
           date_end: ''
-          description: I am currently a research associate at the University of Glasgow, working on the MEaSURE project, an interdisciplinary project in collaboration with the University of Manchester and the University of Salford. The project aims to explore the ecological services and disservices associated with urban green spaces. My research specifically focuses on assessing the risk of tick-borne diseases in urban green spaces by understanding how disease risk varies with landscape connectivity, land cover and host presence. Additionally, I will create exposure risk maps using mobility data to track park usage patterns.
+          description: I am currently a research associate within the University of Glasgow, working on the FarmAquaNet project. This One Health Framework aims to assess the risks of antimicrobial resistance in aquatic ecosystems in northereast Thailand, in collaboration with Kasetsart University, Chulabhorn Research Institute, Stirling University, Chiang Mai University and Mahasarakarm Universiy. I am currently leading the design of stated choice experiments to assess and quantify willingness to reduce antibiotic usage in aquaculture. 
+          
+        - title: Research Associate
+          company: University of Glasgow
+          company_url: ''
+          company_logo: 
+          location: Glasgow, UK
+          date_start: '2024-03-04'
+          date_end: '2026-01-31'
+          description: I was a research associate at the University of Glasgow, working on the MEaSURE project, an interdisciplinary project in collaboration with the University of Manchester and the University of Salford. The project aimed to explore the ecological services and disservices associated with urban green spaces. My research specifically focused on investigating ecological and socioeconomic drivers of tick-borne disease hazard and Lyme disease incidence in urban greenspaces. 
 
         - title: Senior Medical Entomologist
           company: UK Health Security Agency
@@ -58,7 +67,7 @@ sections:
           date_start: '2023-03-03'
           date_end: '2024-02-06'
           description: |2-
-              As a Senior Medical Entomologist, I am leading a range of ecological research projects, including the National Tick Survey as well as various field base ecological project investigating the impacts of land management and host presence on tick-borne disease hazard. I also analyse large government dataset to, for instance, understand spatiotemporal changes in tick distribution. Some of my responsibilities include: 
+              As a Senior Medical Entomologist, I was leading a range of ecological research projects, including the National Tick Survey as well as various field base ecological project investigating the impacts of land management and host presence on tick-borne disease hazard. I also analysed large government dataset to understand spatiotemporal changes in tick distribution. Some of my responsibilities included: 
 
               * Managing field base ecological research projects
               * Coordinating with stakeholders and project partners
@@ -74,7 +83,7 @@ sections:
           date_start: '2020-03-08'
           date_end: '2023-03-01'
           description: |2-
-              As a Medical Entomologist, I am involved in  a range of ecological research projects focusing on better understanding tick-borne disease risk in the UK. Some of my responsibilities include:
+              As a Medical Entomologist, I was involved in  a range of ecological research projects focusing on better understanding tick-borne disease risk in the UK. Some of my responsibilities included:
 
               * Coordinating field work logistics, leading a team of 5 people
               * Coordinating with stakeholders and project partners
@@ -88,7 +97,7 @@ sections:
           location: Glasgow, UK
           date_start: '2016-11-01'
           date_end: '2020-05-30'
-          description: As a graduate teaching assistant, I am teaching undergraduate and MSc students during practicals and tutorial sessions on general biology (labs & marking), introduction to GIS, statistics (GLMs, GLMMs, dplyr & ggplot2 in R), marine biologgy (field course) and molecular biology (labs).
+          description: As a graduate teaching assistant, I was teaching undergraduate and MSc students during practicals and tutorial sessions on general biology (labs & marking), introduction to GIS, statistics (GLMs, GLMMs, dplyr & ggplot2 in R), marine biologgy (field course) and molecular biology (labs).
         - title: PhD Candidate
           company: University of Glasgow
           company_url: ''
@@ -96,7 +105,7 @@ sections:
           location: Glasgow, UK
           date_start: '2016-10-03'
           date_end: '2020-09-10'
-          description: My PhD focuses on the impacts of host community composition on Lyme disease hazard in Scottish woodlands.
+          description: My PhD focused on the impacts of host community composition on Lyme disease hazard in Scottish woodlands.
         - title: Field technician
           company: Grimsö research station
           company_url: ''
@@ -104,7 +113,7 @@ sections:
           location: Grimsö, Sweden
           date_start: '2016-05-01'
           date_end: '2016-07-31'
-          description: As a field technician, my duties include mammal capture (roe deer, rodents), blood sampling, radio-telemetry, animal survey, tick collection, tick identification and distance sampling.
+          description: As a field technician, my duties included mammal capture (roe deer, rodents), blood sampling, radio-telemetry, animal survey, tick collection, tick identification and distance sampling.
         - title: MSc research project
           company: Grimsö research station
           company_url: ''
@@ -112,7 +121,7 @@ sections:
           location: Grimsö, Sweden
           date_start: '2015-01-01'
           date_end: '2015-08-30'
-          description: My research project focuses on understanding the influence of time, temperature and humidity on *Ixodes ricinus* density in Sweden using a long term dataset.
+          description: My research project focused on understanding the influence of time, temperature and humidity on *Ixodes ricinus* density in Sweden using a long term dataset.
     design:
       columns: '2'
   - block: experience
@@ -209,10 +218,10 @@ sections:
         country: United Kingdom
         country_code: UK
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/SaraGandy38'
+        - icon: 
+          icon_pack: 
+          name: 
+          link: 
            # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
