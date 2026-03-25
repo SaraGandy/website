@@ -1,0 +1,10 @@
+@article{Gandy2026SEM,
+  title={Disentangling complex disease ecology networks: Using structural equation modelling to quantify the direct and indirect effects of deer on Lyme borreliosis hazard},
+  author={Gandy, Sara and Sanchez-Rodriguez, Fernanda and McLellan, William and Olsthoorn, Fanny and James, Marianne and Johnson, paul and Biek, Roman and Sprong, Hein and Fonville, Manoj and Millins, Caroline and Forbes, Ken and Bowman, Alan and Ghazoul, Jaboury and Gilbert, Lucy},
+  journal={Ticks and Tick-borne Diseases},
+  volume={17},
+  number={},
+  pages={102595},
+  year={2026},
+  publisher={Elvesier}
+}
