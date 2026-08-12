@@ -1,0 +1,10 @@
+@article{deKlerk2024Culex,
+  title={Climate-based forecasting from national Culex mosquito surveillance to support West Nile and Usutu virus preparedness in England and Wales},
+  author={de Klerk, Joanna and Haziqah-Rashid, Amirah and Widlake, Emma and Wilson, Roksana and Pilgrim, Jack and Vaux, Alexander and Tanianis-Hughes, Jolanta and Delnicka, Agata and Jealouse, Amy and Abbott, Anthony and Haines, Catie and Johnston, Colin and Miller, Finn and Sherlock, Ken and Bursali, Fatma and Gandy, Sara and Biddlecombe, Sarah and Medlock, Jolyon and Blagrove, Marcus and Baylis, Matthew and Sedda, Luigi},
+  journal={BMC Public Health},
+  volume={},
+  number={},
+  pages={},
+  year={2026},
+  publisher={Springer}
+}

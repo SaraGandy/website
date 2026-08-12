@@ -1,0 +1,10 @@
+@article{WindramVHub2026,
+  title={Come together: Data sharing to support one health responses to vector-borne disease threats},
+  author={Windram, Francis and Kelly, Sarah and Modrak, Stanislas and Dietrich, Isabelle and Minetti, Corrado and Mansfield, Karen and Seelig, Frederik and Fisher, Adam and Vollans, Maisie and Billows, Nina and Ahmed, Fahad and Shocket, Marta and Campino, Susana and Tytheridge, Scott and Gandy, Sara and Gonzales, Estela and Medlock, Jolyon and Baylis, Matthew and Hughes, Grant and Ewing, David and Purse, Bethan and Kirby, Georgia and Strode, Clare and Folly, Arran and Starns, David and Ferguson, Heather and Smith-Mullally, Simon and Roberts, Helen and Jones, Christopher and Rose-Vineer, Hannah and England, Marion and Sanders, Christopher and Pawar, Samraat and Pearse, William and White, Steven and Jones, Robert and Cator, Lauren},
+  journal={Medical and Veterinary Entomology},
+  volume={},
+  number={},
+  pages={},
+  year={2026},
+  publisher={Wiley}
+}
