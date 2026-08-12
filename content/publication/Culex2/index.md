@@ -45,8 +45,7 @@ publication_types: ['2']
 # Publication name and optional abbreviated publication name.
 publication: In BMC Public Health
 
-abstract: Culex mosquitoes are widespread in temperate regions and play a key role in transmitting veterinary and human vector-borne diseases. In the United Kingdom, Culex pipiens s.l. is highly prevalent and a competent vector of West Nile and Usutu viruses. Coupled with the northward expansion of West Nile virus in Europe, this raises concerns about emergence in the UK. For public and animal health preparedness, and effective vector control planning, it is essential to better understand the distribution of Culex mosquitoes in this area. This study developed species distribution maps for Culex pipiens pipiens, Culex pipiens molestus, and Culex torrentium abundance using data from the first nationwide stratified active mosquito surveillance programme in England and Wales in 2023, supplemented with adaptive surveillance in 2024. Culex p. pipiens models predicted higher abundances than the other two taxa. Regions of high abundance occurred across most of England, apart from the northwest, with the highest in eastern regions and estuarine areas. In contrast, higher elevation areas, including most of Wales, the North Pennines, and Yorkshire Dales, showed markedly lower abundances. Environmental drivers differed between forms. Culex p. pipiens abundance was strongly associated with precipitation-related covariates, whereas Culex p. molestus was mostly influenced by temperature covariates. These findings highlight the importance of modelling the two forms separately in risk analyses and distribution studies. The resulting models provide timely ecological insights to support surveillance prioritisation and provide a foundation for future work aimed at guiding public health planning and targeted vector management.
-
+abstract:
 tags: []
 
 # Display this page in the Featured widget?

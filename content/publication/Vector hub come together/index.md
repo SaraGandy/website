@@ -60,7 +60,7 @@ publication_types: ['2']
 # Publication name and optional abbreviated publication name.
 publication: In Medical and Veterinary Entomology
 
-abstract: Vector-borne diseases (VBDs) are an increasing threat to animal and human health worldwide. Due to the complexity of VBD transmission and ecology, informing responses to VBDs can be challenging. A One Health approach provides a powerful framework for addressing these threats, but its effectiveness depends on timely access to and integration of diverse and often fragmented data categories. Here we outline three key community actions: applying global metadata and data standards, depositing data into global repositories and responsible shared data usage, which can enhance VBD data sharing. We highlight how these data-sharing practices allow for the development of new informatic infrastructure, established by the One Health VBD Hub project, to facilitate analyses and ultimately enhance our ability to provide timely responses to endemic and emerging VBD threats.
+abstract: 
 tags: []
 
 # Display this page in the Featured widget?
